@@ -6,3 +6,5 @@
 - hashicorp vault blog post
 - some python boto3 script
 - How to version control cloudflare configs with terraform
+- Ansible role (with best practices), and explaining the example
+

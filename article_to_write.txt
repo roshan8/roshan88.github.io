@@ -1,5 +1,6 @@
 - Lets encrypt with cloudflare
 - version controlling dns changes in cloudflare with terraform
+- How to setup Bind, Why should we build our own DNS servers?
 - prometheus operator, why? difference? etc
 - vpn setup
 - jenkins script

@@ -1,4 +1,5 @@
 - Lets encrypt with cloudflare
+- version controlling dns changes in cloudflare with terraform
 - prometheus operator, why? difference? etc
 - vpn setup
 - jenkins script
@@ -7,4 +8,3 @@
 - some python boto3 script
 - How to version control cloudflare configs with terraform
 - Ansible role (with best practices), and explaining the example
-

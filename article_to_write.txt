@@ -2,6 +2,7 @@
 - version controlling dns changes in cloudflare with terraform
 - How to setup Bind, Why should we build our own DNS servers?
 - prometheus operator, why? difference? etc
+- Kube prometheus setup
 - vpn setup
 - jenkins script
 - sample script
